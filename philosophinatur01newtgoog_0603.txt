@@ -1,0 +1,50 @@
+96 PHILOSOPHIAE NATURALIS [Mor. Cotron-
+
+PROPOSITlO Xll. THEOREMA IX.
+
+Iisdem positis, dico qodd si spatia descripta asmantiae in progressione orith-
+arctiori, velocitates dotti quidam pitantitate aucte aaut ia progressione
+geometrici.
+
+In asymptoto CD detm punctum R, et erecto perpendiculo R ὃς
+quod occurrat hyperbolae in S, exponatur descriptum spatium per aream
+hyperbolicam R S E D; et velocitas erit ut longitudo G D, quae cnm
+datia CG componit longitudinem C D in progressione geometricis de-
+crescentem, interea dum spatium R S E D augetur in arithmetici.
+
+(¹¹) Etenim ob datum spatii
+incrementum E D d e, lineola
+D d, quoe decrementum est ip-
+sius GD, erit reciproci ut ΕΙ),
+ideoque directe ut C D, hoc
+est, ut summa ejusdem G D
+et longitudinis datae C G. Sed
+velocitatis decrementum, tem-
+pore sibi reciproce proportio· c G Λ
+nali, quo dats spatii particula
+D d e E describitur, (¹) est ιιι resistentie et tempus conjunctim, id est di·
+recte ut summa duarum quantitatum, quarum una est ut velocitas, altera
+ιιι velocitatis quadratum, et inverse ut velocitas3 ideoque directi. ut summa
+duarum quantitatum, quarum nna datur, ultera est ut velocitas. Decre-
+mentum igitur tam velocitatis quam lineae G D, est ut quantitas data et
+quantitas decrescens conjunctim, et propter analoga decrementa, (¹) ana·
+logae semper erunt quantitates decrescentes3 nimirum velocitas et lines
+G D. Q. e. d.
+
+Corol. 1. Si velocitas exponatur per longitudinem G D, spatium de·
+scriptum erit ut area hyperbolica D Ε S R.
+
+Corol. 2. Ει si utcunque assumatur punctum R, invenietur punctum G
+capiendo G R ud G D, ut est velocitas sub initio adpelocitatem post spa·
+
+(²) ⁶ Etenim ob ἀαιιιιιι motii incrementum, rdeique dato spaui incremento ut relocitu in-
+per hypothesim qui spatiesupponunturin erith- versi. Quarddrto spatii incremento, velocitatis
+marici progressione crescere. decrementum ret ιιι resistentia directi et veloci·
+
+(¹) ⁹ list ut resistentia et tenipus conjunctim. trs urrant, idest, directi ut summa duanam
+Velocitatis decrementum est ut resistentis ct quantitatum, dre.
+tempus conjunctim (15), tempus veri> est ιιι in· (ι) · Anrrtngrr temperasset, &c- (Per Cor.
+crementum spatii directe et velocitas inversi, lam. lV. Lib. l.).
+
+ 
+
