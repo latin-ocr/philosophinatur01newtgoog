@@ -1,0 +1,44 @@
+Lim Paruum] PRINCIPIA MATHEMATICA, 47
+LEMMA IV.
+
+Sl la diarrafibarris A a c E, Ρ p r T, imeribantur (ul irfia) dua paral-
+lelogrammorum series, sitque idem amborum namma, et alri latitudines ia
+’ irfiaitum diminuantur, rationes ultim parallelogrammorum ia anlfigard
+orl parallelogramma in altera, singulorum ad singala„sint eadem ,· dico
+qaod figura dua A a oE, P prT, suntad invicem ia eadem ilat ratione.
+
+Etenim ut sunt parallelogramma singula ad singula, ita (oomponendo)
+fitsumma omnium ad summam omnium, etita figura ad figuram exis-
+
+tente nimirum figura priore (per Lemma ΙΙΙ.) ad summam priorem, et
+figura posteriore ad siunmam posteriorem in ratione aequalitatis. Q. ed.
+
+Corol. Hinc si duae cujuscunque generis quantitatesin eundem partium ι
+numerum utcunque dividantur ; et partes illoe, ubi numerus earum
+angetur et magnitudo diminuitur in infinitum, datam obtineant rationem
+ul invicem, prima ad primam, secunda ad secundam, caeteraque suo
+ordine ad oaeteras: erunt tota ad invicem in elidem. illu dani ratione:
+Nam si in Lemmatis hujus figuris sumantur parallelogramma inter se ut
+
+mrpari potest pro parallelogrrmmo Al, aut hic cylindrus sit infiniteaimus, patet (per lamma
+etiam pro figura A B b a, boc est, pro differen- Ι.) ultimam rationem solidi ex cylindris omni-
+
+&mamm mnilinearum A an, B E c b· bur compositi ad solidum ex rotatione figurae ·
+
+108. Exhio requitur diversos easainliniteai· currilineoe A E e a, genitum esse rationem
+mrum ordinm nrm ostensum eat (107) paral· equalitatis.
+mum K l, inlinireaimum esee respectu (¹⁴) llo. Nam ei singulorum parallelogram-
+purallelogrnmmi A b, hoc raro pmllalogram- morum latitudo equalis esset lineae A F, ligura
+mminfiniaamummrapeauareaeunilineae insoriprreet figuraeeircumacriptre differentia toret
+Alica. parallelogrammumAf, (Lem. ll·); cumigitur
+109. logum A B c a, circa axem suum A E, singulorum parallelogrammorum latitudo minor
+ruolmur, ot quelibet ordinata A a, Bb, da- ait latitudine A F, (ex hyp) predicta figurarum
+niretcimulom, eujus ast, ordinata ipsa radius, differentia minor quoque eet parallelogramma
+quodlibet anangulum evanescens ut K B, a B, A l.
+&nibeqlindrum vanescentem, etractangula, (0) lll· Propterea ha· flgurra ultimae (quoad
+ΙΙ. L m, Μ n, Do, ringuladeaaribem annulos perimetros a c E) non erint rectilinea, seu non
+fflu, quarum mmm aqualia erit cylindro ex sunt ex lateribus rectia uocumque numero rni-
+&mengun Aldeueripto· Quare cum to composita, aedmtlgurarum rectilineum
+
+ 
+
